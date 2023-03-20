@@ -1,8 +1,8 @@
-package com.pasmurtsev.spring.springboot.spring_rest.sringboot_rest.controller;
+package com.pasmurtsev.spring.springboot.spring_rest.springboot_rest.controller;
 
-import com.pasmurtsev.spring.springboot.spring_rest.sringboot_rest.entity.Employee;
+import com.pasmurtsev.spring.springboot.spring_rest.springboot_rest.entity.Employee;
 
-import com.pasmurtsev.spring.springboot.spring_rest.sringboot_rest.service.EmployeeService;
+import com.pasmurtsev.spring.springboot.spring_rest.springboot_rest.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

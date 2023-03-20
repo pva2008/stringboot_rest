@@ -1,4 +1,4 @@
-package com.pasmurtsev.spring.springboot.spring_rest.sringboot_rest.entity;
+package com.pasmurtsev.spring.springboot.spring_rest.springboot_rest.entity;
 
 
 import jakarta.persistence.*;

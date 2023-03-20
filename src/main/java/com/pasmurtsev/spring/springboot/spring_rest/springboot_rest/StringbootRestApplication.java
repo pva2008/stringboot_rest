@@ -1,4 +1,4 @@
-package com.pasmurtsev.spring.springboot.spring_rest.sringboot_rest;
+package com.pasmurtsev.spring.springboot.spring_rest.springboot_rest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
